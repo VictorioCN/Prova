@@ -1,0 +1,31 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "ADM",
+      "email": "docemel@sodoce.com.br",
+      "senha": "brigadeiro123",
+      "tipo": "administrador"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "17d8",
+      "nome": "Bolo De Morango",
+      "tipo": "bolo",
+      "preco": "R$27.00"
+    },
+    {
+      "id": "5d5e",
+      "nome": "Torta de Frango",
+      "tipo": "Torta",
+      "preco": "R$25.99"
+    },
+    {
+      "id": "65a4",
+      "nome": "Coca Cola",
+      "tipo": "Bebida",
+      "preco": "R$9.00"
+    }
+  ]
+}
